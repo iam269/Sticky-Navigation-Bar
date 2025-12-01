@@ -28,6 +28,10 @@ A responsive sticky navigation bar project built with HTML, CSS, and JavaScript 
 
 The page includes sample content sections with Lorem Ipsum text to demonstrate the sticky behavior. Open `index.html` in your browser to see it in action! 🌐
 
+## Live Demo 🌐
+
+Experience the sticky navigation bar live: [Sticky Navigation Bar Demo](https://iam269.github.io/Sticky-Navigation-Bar/) 🚀
+
 ## Getting Started 🚀
 
 1. Clone or download the project files
