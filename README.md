@@ -30,7 +30,7 @@ The page includes sample content sections with Lorem Ipsum text to demonstrate t
 
 ## Live Demo 🌐
 
-Experience the sticky navigation bar live: [Sticky Navigation Bar Demo](https://iam269.github.io/Sticky-Navigation-Bar/) 🚀
+Experience the sticky navigation bar live: [Sticky Navigation Bar Demo](https://itsiamdev.github.io/Sticky-Navigation-Bar/) 🚀
 
 ## Getting Started 🚀
 
